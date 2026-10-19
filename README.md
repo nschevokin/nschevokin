@@ -1,4 +1,4 @@
-# Hi, I'm Nikita Chevokin 👋
+# Hi, I'm Nick👋
 
 Data and ML engineer. I build data pipelines and ML systems and care about **measuring them honestly**: leak-free splits, real baselines, evaluation gates, and stated limitations.
 
